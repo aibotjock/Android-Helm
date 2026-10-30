@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { normalizeText, extractTitle, extractLinks, canonical, parseFrontMatter, validateSources, diffRegistries, deadlineStatus } from '../tools/lib.mjs';
+import { normalizeText, extractTitle, extractLinks, canonical, parseFrontMatter, validateSources, diffRegistries, deadlineStatus, parseRobots, isDisallowed } from '../tools/lib.mjs';
 
 test('visible text only, scripts and tags removed, entities decoded', () => {
   assert.equal(normalizeText('<style>x{}</style><p>Hello&nbsp;&amp; <b>bye</b></p><script>1</script>'), 'Hello & bye');
@@ -45,4 +45,13 @@ test('deadline status: passed, within 60 days, upcoming', () => {
   assert.equal(deadlineStatus('2026-09-30', today).state, 'passed');
   assert.equal(deadlineStatus('2026-11-28', today).state, 'within 60 days');
   assert.equal(deadlineStatus('2027-04-14', today).state, 'upcoming');
+});
+
+test('robots: only the all-crawler group applies; wildcards and end anchors work', () => {
+  const rules = parseRobots('User-agent: Googlebot\nDisallow: /private\n\nUser-agent: *\nDisallow: /*?*authuser=\nDisallow: /tmp$\n');
+  assert.deepEqual(rules, ['/*?*authuser=', '/tmp$']);
+  assert.equal(isDisallowed('/help/x?authuser=1', rules), true);
+  assert.equal(isDisallowed('/tmp', rules), true);
+  assert.equal(isDisallowed('/tmp/more', rules), false);
+  assert.equal(isDisallowed('/private', rules), false);
 });

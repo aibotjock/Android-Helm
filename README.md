@@ -7,7 +7,7 @@ A map, checklist and refresh pipeline for building Android apps that meet Google
 ## What is here
 
 - **`playbooks/`**: checklists for release, developer verification, target API, closed testing, data safety, account deletion, subscriptions and billing, permissions, security flags, store listing, ads, technical quality, AI-generated content, child safety, SDKs and account health. Each playbook lists the sources it comes from.
-- **`sources/sources.json`**: 44 Google pages we watch, each with a priority that sets how often it is checked.
+- **`sources/sources.json`**: 48 Google sources we watch, each with a priority that sets how often it is checked.
 - **`data/deadlines.json`**: dated obligations (compliance windows, effective dates), each with its source.
 - **`generated/`**: what the refresh last found: the page registry, changes, deadline status and run summary.
 - **`docs/`**: architecture decisions, the refresh procedure and a catalogue of Play Console features.
@@ -15,7 +15,7 @@ A map, checklist and refresh pipeline for building Android apps that meet Google
 
 ## Current status
 
-- **Seeded:** the registry holds 222 pages recorded on 30 October 2026.
+- **Seeded:** the registry holds 203 Play policy pages, recorded on 30 October 2026. Nineteen pages from outside Play policy were removed. Three sources named in the brief (transparency product terms, Play for business, and the Workspace app review) are listed but not yet fetched.
 - **Automated refresh:** the weekly workflow is in place, but the repository's own crawler has not completed a run yet. On 30 October 2026 Google refused the crawler's requests. The crawler now pauses a site after a refusal and does not try to get around it. Until a run completes, read the P0 pages by hand each week.
 - **Deadlines within 60 days** (as of 30 October 2026): the target API extension date (1 November 2026) and the end of the 30-day window for the 29 October 2026 policy update (28 November 2026, calculated).
 

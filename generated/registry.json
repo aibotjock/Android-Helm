@@ -2,169 +2,16 @@
  "generatedAt": "2026-10-30T00:00:00.000Z",
  "seededFrom": "Webcrawlwalk run on 2026-10-30",
  "counts": {
-  "pages": 222
+  "pages": 203
  },
  "pages": [
-  {
-   "url": "https://accounts.google.com/v3/signin/identifier",
-   "title": "Sign in - Google Accounts",
-   "status": 200,
-   "sha256": "47d79dc9d06c00259458dfd73e6d6dad12296485fcf07ecf8028df99e3fdfe7d",
-   "source_id": "unassigned",
-   "depth": 2,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace",
-   "title": "Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "cecf2aa7f3c458822244362c4cbd1eb2977c59f369b5b84a1dbed90bd62b0e33",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
   {
    "url": "https://developers.google.com/workspace/marketplace/about-app-review",
    "title": "App review process and requirements for the Google Workspace Marketplace | Google for Developers",
    "status": 200,
    "sha256": "b6754913702a8ef5cab1915869365d241deda585c8c8e0970b7c0c6a6d23e6c4",
-   "source_id": "unassigned",
+   "source_id": "workspace-marketplace-app-review",
    "depth": 0,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/authorizing",
-   "title": "Choose Google Workspace Marketplace API scopes | Google for Developers",
-   "status": 200,
-   "sha256": "f8aa9f87db8f898c3e4fe149abaf49002d1f67e7a5029371eaab7ee3533106ff",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/configure-oauth-consent-screen",
-   "title": "Configure OAuth | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "d140b17512dddb348507a89ad98633ee440b4c00d63faf2a2c4083e9e7d52ead",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/create-badge",
-   "title": "Create a badge to promote your Google Workspace Marketplace app | Google for Developers",
-   "status": 200,
-   "sha256": "fa709eef1780e1619aa89f8db418ed267674b31617ce5f72ca25f623e41cd14b",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/create-listing",
-   "title": "Create a store listing | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "fb79500e2e4f3431bb8d8e1ea6b2969551c4631dad1eb3babc1e0835088493d8",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/enable-configure-sdk",
-   "title": "Configure your app in the Google Workspace Marketplace SDK | Google for Developers",
-   "status": 200,
-   "sha256": "ad9419937eaa47f078e7f384c79ac8d2e29e045a228b7e143177036119fe5f82",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/example-calls-marketplace-api",
-   "title": "Get app installation and licensing details | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "86605cb50ab3ea81391cc6be645ef2d804fc624b5f86f7bf80f6ef9e17da392f",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/get-featured",
-   "title": "Get your app featured in the Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "a6d8ff4eecb4fc1340e5b830c8553f886077bdf5b82a1b4bd86e41bf72db8b04",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/how-to-publish",
-   "title": "Publish apps to the Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "6394bfcad12ea1c27a15b3528f29dd0caef9481f77d989a43e7fbad9508ae0b2",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/list-multiple-app-integrations",
-   "title": "List app integrations together | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "a9a9d219daeb59fa1a82a98fffd6a43d086587c780cf45ed5ccac632d1984588",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/manage-app-listing",
-   "title": "Update or unpublish an app listing | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "bbabacc7860e6e24e645352c8b431b7f631f27cfc9f6c7fbf00bf752cd1abd2c",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/overview",
-   "title": "About the Google Workspace Marketplace SDK | Google for Developers",
-   "status": 200,
-   "sha256": "0b26c4468b63ff8f5ded54779d8412e853859fd19e77af6037672c285675608e",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/reference/rest",
-   "title": "Google Workspace Marketplace API | Google for Developers",
-   "status": 200,
-   "sha256": "42b8e651de0ba9d94d3d1aff91a3ab7d0bcb8471181e5c4808d8520911a4d944",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/reply-to-reviews",
-   "title": "Reply to user reviews | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "1ee775be5f77966c40857d12dafb30e3265d1254408fcb4fd17f0bfd5c86ce62",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/support",
-   "title": "How to get help | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "a2d91d42a459df82f380767ffb74a0ec8843f98af1faa368adc55f377bced50f",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://developers.google.com/workspace/marketplace/terms/branding",
-   "title": "Google Workspace Marketplace branding guidelines | Google for Developers",
-   "status": 200,
-   "sha256": "c95c1a1d39ac362cfbaaaee31d9ba1996b1db0cc343ad3063a471e7d622049f6",
-   "source_id": "unassigned",
-   "depth": 1,
    "lastSeen": "2026-10-30"
   },
   {
@@ -177,30 +24,12 @@
    "lastSeen": "2026-10-30"
   },
   {
-   "url": "https://developers.google.com/workspace/marketplace/use-analytics",
-   "title": "Get analytics about app usage | Google Workspace Marketplace | Google for Developers",
-   "status": 200,
-   "sha256": "b2fe29c39e04c841d7b70256d71653feaa6c63cf695a0b3c957308ec2f64c979",
-   "source_id": "unassigned",
-   "depth": 1,
-   "lastSeen": "2026-10-30"
-  },
-  {
    "url": "https://play.google/developer-content-policy",
    "title": "Developer Policy Center",
    "status": 200,
    "sha256": "a09218997bf0dc27e9edaa579d12b3b9ac957c1de06364e077841f8983460dfc",
    "source_id": "play-policy-hub",
    "depth": 0,
-   "lastSeen": "2026-10-30"
-  },
-  {
-   "url": "https://play.google/developer-content-policy/static/img/glue-icons.svg",
-   "title": "",
-   "status": 200,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "source_id": "unassigned",
-   "depth": 1,
    "lastSeen": "2026-10-30"
   },
   {
@@ -361,7 +190,7 @@
    "title": "Create an in-app product - Play Console Help",
    "status": 200,
    "sha256": "f9494ab472a1067ae72dd356f3d1830a72a2cd27e4443c21fb8ae8872f816bee",
-   "source_id": "help-center-index",
+   "source_id": "in-app-products",
    "depth": 1,
    "lastSeen": "2026-10-30"
   },
@@ -2003,5 +1832,6 @@
    "depth": 1,
    "lastSeen": "2026-10-30"
   }
- ]
+ ],
+ "cleanedNote": "Removed 19 pages that are not Play policy pages (sign-in page, Workspace Marketplace pages other than app review, and an icon file)."
 }

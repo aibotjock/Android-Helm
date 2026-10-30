@@ -489,6 +489,50 @@
    "topic": "other-platforms",
    "crawl_depth": 0,
    "notes": ""
+  },
+  {
+   "id": "workspace-marketplace-app-review",
+   "title": "Google Workspace Marketplace app review",
+   "url": "https://developers.google.com/workspace/marketplace/about-app-review",
+   "priority": "P3",
+   "cadence_days": 365,
+   "kind": "policy",
+   "topic": "other-platforms",
+   "crawl_depth": 0,
+   "notes": "Named in the brief; covers Workspace Marketplace only."
+  },
+  {
+   "id": "transparency-product-terms",
+   "title": "Google Play product terms (transparency centre)",
+   "url": "https://transparency.google/intl/en_mt/our-policies/product-terms/google-play/",
+   "priority": "P3",
+   "cadence_days": 365,
+   "kind": "terms",
+   "topic": "legal",
+   "crawl_depth": 0,
+   "notes": "Named in the brief. Not yet fetched by the repository crawler."
+  },
+  {
+   "id": "play-business",
+   "title": "Google Play for business",
+   "url": "https://play.google/business/",
+   "priority": "P3",
+   "cadence_days": 365,
+   "kind": "overview",
+   "topic": "business",
+   "crawl_depth": 0,
+   "notes": "Named in the brief. Redirects; the crawler records the final address."
+  },
+  {
+   "id": "in-app-products",
+   "title": "Create an in-app product",
+   "url": "https://support.google.com/googleplay/android-developer/answer/1153481",
+   "priority": "P1",
+   "cadence_days": 30,
+   "kind": "help",
+   "topic": "billing",
+   "crawl_depth": 0,
+   "notes": "One-time purchases, used for lifetime pricing."
   }
  ]
 }
