@@ -1,0 +1,2007 @@
+{
+ "generatedAt": "2026-10-30T00:00:00.000Z",
+ "seededFrom": "Webcrawlwalk run on 2026-10-30",
+ "counts": {
+  "pages": 222
+ },
+ "pages": [
+  {
+   "url": "https://accounts.google.com/v3/signin/identifier",
+   "title": "Sign in - Google Accounts",
+   "status": 200,
+   "sha256": "47d79dc9d06c00259458dfd73e6d6dad12296485fcf07ecf8028df99e3fdfe7d",
+   "source_id": "unassigned",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace",
+   "title": "Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "cecf2aa7f3c458822244362c4cbd1eb2977c59f369b5b84a1dbed90bd62b0e33",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/about-app-review",
+   "title": "App review process and requirements for the Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "b6754913702a8ef5cab1915869365d241deda585c8c8e0970b7c0c6a6d23e6c4",
+   "source_id": "unassigned",
+   "depth": 0,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/authorizing",
+   "title": "Choose Google Workspace Marketplace API scopes | Google for Developers",
+   "status": 200,
+   "sha256": "f8aa9f87db8f898c3e4fe149abaf49002d1f67e7a5029371eaab7ee3533106ff",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/configure-oauth-consent-screen",
+   "title": "Configure OAuth | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "d140b17512dddb348507a89ad98633ee440b4c00d63faf2a2c4083e9e7d52ead",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/create-badge",
+   "title": "Create a badge to promote your Google Workspace Marketplace app | Google for Developers",
+   "status": 200,
+   "sha256": "fa709eef1780e1619aa89f8db418ed267674b31617ce5f72ca25f623e41cd14b",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/create-listing",
+   "title": "Create a store listing | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "fb79500e2e4f3431bb8d8e1ea6b2969551c4631dad1eb3babc1e0835088493d8",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/enable-configure-sdk",
+   "title": "Configure your app in the Google Workspace Marketplace SDK | Google for Developers",
+   "status": 200,
+   "sha256": "ad9419937eaa47f078e7f384c79ac8d2e29e045a228b7e143177036119fe5f82",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/example-calls-marketplace-api",
+   "title": "Get app installation and licensing details | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "86605cb50ab3ea81391cc6be645ef2d804fc624b5f86f7bf80f6ef9e17da392f",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/get-featured",
+   "title": "Get your app featured in the Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "a6d8ff4eecb4fc1340e5b830c8553f886077bdf5b82a1b4bd86e41bf72db8b04",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/how-to-publish",
+   "title": "Publish apps to the Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "6394bfcad12ea1c27a15b3528f29dd0caef9481f77d989a43e7fbad9508ae0b2",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/list-multiple-app-integrations",
+   "title": "List app integrations together | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "a9a9d219daeb59fa1a82a98fffd6a43d086587c780cf45ed5ccac632d1984588",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/manage-app-listing",
+   "title": "Update or unpublish an app listing | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "bbabacc7860e6e24e645352c8b431b7f631f27cfc9f6c7fbf00bf752cd1abd2c",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/overview",
+   "title": "About the Google Workspace Marketplace SDK | Google for Developers",
+   "status": 200,
+   "sha256": "0b26c4468b63ff8f5ded54779d8412e853859fd19e77af6037672c285675608e",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/reference/rest",
+   "title": "Google Workspace Marketplace API | Google for Developers",
+   "status": 200,
+   "sha256": "42b8e651de0ba9d94d3d1aff91a3ab7d0bcb8471181e5c4808d8520911a4d944",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/reply-to-reviews",
+   "title": "Reply to user reviews | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "1ee775be5f77966c40857d12dafb30e3265d1254408fcb4fd17f0bfd5c86ce62",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/support",
+   "title": "How to get help | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "a2d91d42a459df82f380767ffb74a0ec8843f98af1faa368adc55f377bced50f",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/terms/branding",
+   "title": "Google Workspace Marketplace branding guidelines | Google for Developers",
+   "status": 200,
+   "sha256": "c95c1a1d39ac362cfbaaaee31d9ba1996b1db0cc343ad3063a471e7d622049f6",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/terms/policies",
+   "title": "Google Workspace Marketplace program policies | Google for Developers",
+   "status": 200,
+   "sha256": "cd3425b8c646a1f2c315962b92aa9fcc9cb814bee3c728ba6dbe581f5da3e270",
+   "source_id": "workspace-marketplace-policies",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://developers.google.com/workspace/marketplace/use-analytics",
+   "title": "Get analytics about app usage | Google Workspace Marketplace | Google for Developers",
+   "status": 200,
+   "sha256": "b2fe29c39e04c841d7b70256d71653feaa6c63cf695a0b3c957308ec2f64c979",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://play.google/developer-content-policy",
+   "title": "Developer Policy Center",
+   "status": 200,
+   "sha256": "a09218997bf0dc27e9edaa579d12b3b9ac957c1de06364e077841f8983460dfc",
+   "source_id": "play-policy-hub",
+   "depth": 0,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://play.google/developer-content-policy/static/img/glue-icons.svg",
+   "title": "",
+   "status": 200,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "source_id": "unassigned",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://play.google/developer-distribution-agreement.html",
+   "title": "Google Play",
+   "status": 200,
+   "sha256": "07868cb50c74bae9fd76aab892d10d14ee0bfc91c6cf48595f0b1c6645b6e219",
+   "source_id": "distribution-agreement",
+   "depth": 0,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer",
+   "title": "Play Console Help",
+   "status": 200,
+   "sha256": "affe03495a145d4938e6eff1de21f3fe90b4aeae6a351d3b88db604a0406851c",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/announcements/13412212",
+   "title": "Announcements - Play Console Help",
+   "status": 200,
+   "sha256": "9cf1b130451231f00cd5323ec2b31be34951fcb41622f66a49c5b706e48ba24c",
+   "source_id": "policy-announcements",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10144311",
+   "title": "User Data - Play Console Help",
+   "status": 200,
+   "sha256": "5957e2a213136850918fce0e0287b919873d1d6029f64e1d28bb5d118ffbad15",
+   "source_id": "user-data",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10146128",
+   "title": "Policy Coverage - Play Console Help",
+   "status": 200,
+   "sha256": "885dae06a1d4c917f716609cfd94a338924bc06f02496d0711510d74c79642b7",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10158779",
+   "title": "Use of the broad package (App) visibility (QUERY_ALL_PACKAGES) permission - Play Console Help",
+   "status": 200,
+   "sha256": "635508102d88c066a8676e92941babdbdd1baa0fd73a78086d0f65302d9f317a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10183279",
+   "title": "Prevent unauthorized redistribution with automatic protection and prompt users to get your app on Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "0cbcd66ce8423e069ea9115bbe6c2766be47b763d9a3efd114cae7a36b5d9d1e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10208820",
+   "title": "Use of SMS or Call Log permission groups - Play Console Help",
+   "status": 200,
+   "sha256": "549352c7e2983a2424ad35c9537e79bddc6b1cba4b4ce8aa20ed482768f9957b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10246389",
+   "title": "New Play Console FAQs - Play Console Help",
+   "status": 200,
+   "sha256": "5fa6b55af9c134ae2dfa50061f66f1800cce2d6503713398bdecdfb2e7cdf35d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10281818",
+   "title": "Understanding Google Play’s Payments policy - Play Console Help",
+   "status": 200,
+   "sha256": "8976d0695d86931b88e225a960db6b26a33874bdc224bdf6f4ca74aa4d35255c",
+   "source_id": "payments-policy",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10358880",
+   "title": "Using third-party SDKs in your app - Play Console Help",
+   "status": 200,
+   "sha256": "d38df67ea78f3c22a9139757448fbfba149420acb6cfbc54efa1575c75aadf68",
+   "source_id": "third-party-sdks",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10467955",
+   "title": "Use of All files access (MANAGE_EXTERNAL_STORAGE) permission - Play Console Help",
+   "status": 200,
+   "sha256": "7f4cc2f90883bdd4cbdce60dc004446a6571aa383b1a4b1f90e2ac58a842b037",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10787469",
+   "title": "Provide information for Google Play's Data safety section - Play Console Help",
+   "status": 200,
+   "sha256": "01128813f548423770cc71ef0c8e23db5388ffcf82831133eaae17b9738c5bad",
+   "source_id": "data-safety",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/10964491",
+   "title": "Use of the AccessibilityService API - Play Console Help",
+   "status": 200,
+   "sha256": "75a4bc8047cd6cd0d06997bb8ebc11ecab3f847ba8d7e136b78efb449885c285",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/11150561",
+   "title": "Best practices for prominent disclosure and consent - Play Console Help",
+   "status": 200,
+   "sha256": "ec418f29942d858f65cbba456f98f43ac2a765d0d1617ab21cc3e4622d759d49",
+   "source_id": "prominent-disclosure",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/113513",
+   "title": "Developer documentation for apps and games - Play Console Help",
+   "status": 200,
+   "sha256": "5a7d8fa86f88b06413a0dd7cbca25c0d03a8f820aea2c2a5dfa36fb1373bc3cb",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/11395166",
+   "title": "Use the Play Integrity API to detect risky interactions and fight abuse - Play Console Help",
+   "status": 200,
+   "sha256": "944f89e82249bd32c3b61a8c3ab7f6473693ccedb5eda045fb5bc1f156c85f49",
+   "source_id": "play-integrity",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/1153481",
+   "title": "Create an in-app product - Play Console Help",
+   "status": 200,
+   "sha256": "f9494ab472a1067ae72dd356f3d1830a72a2cd27e4443c21fb8ae8872f816bee",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/11605267",
+   "title": "Closure of inactive developer accounts - Play Console Help",
+   "status": 200,
+   "sha256": "0b8d85f050a32d5ed22057dcf67163635c5badd9c2d7f97c07010f4aa08db0c1",
+   "source_id": "inactive-accounts",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/11926878",
+   "title": "Target API level requirements for Google Play apps - Play Console Help",
+   "status": 200,
+   "sha256": "146c4b78bd5668077d95b484fb0a55fc63fec9286c6ea365e43c7a7e46b5587a",
+   "source_id": "target-api",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12002615",
+   "title": "Online Crane Games - Play Console Help",
+   "status": 200,
+   "sha256": "502e0426be1e1cf5117d335952a356e7bb753bed0525dc6773195924c9984547",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12034434",
+   "title": "Make informed choices with Google Play SDK Index - Play Console Help",
+   "status": 200,
+   "sha256": "d1aeeb68007e3126212fedaf2e5437d6d3fd17f146c3eef70132e5e8f2442504",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12053285",
+   "title": "Run A/B tests on your store listing - Play Console Help",
+   "status": 200,
+   "sha256": "d6c91baf6e52b14aeabb6a10dc7e9a02f7967488fea30bff7b6911700f210bd4",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12270875",
+   "title": "Google Play contacting developers by phone - Play Console Help",
+   "status": 200,
+   "sha256": "4b2519796f6ac4a711b17e00e504c4ceb598da8e6471bc8dd479ee0281b06ffe",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12463044",
+   "title": "Verify and maintain deep links - Play Console Help",
+   "status": 200,
+   "sha256": "97e909fd7663c60311b5babb70dc5921af1e466562fd1ddbc9b1787cd0ace510",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12576726",
+   "title": "Fix apps with bad SoLoader versions - Play Console Help",
+   "status": 200,
+   "sha256": "496da32cf1fe5bbfeec4c9d07fba95566263fcbafa4eacb04910d6f05a02b249",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12918670",
+   "title": "Overview: Real-money gaming pilots in selected regions - Play Console Help",
+   "status": 200,
+   "sha256": "285c1b9f6361035b1dd6a117beb4764d848565728e03ba9503cb44f534257e7b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12955211",
+   "title": "​​Use of the isMonitoringTool Flag - Play Console Help",
+   "status": 200,
+   "sha256": "1e4004dca7bf3b81a87889ec4127118890427b7b6d7ef5cc192f3d6f2082e78a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12955712",
+   "title": "Participate in the Families Self-Certified Ads SDK Program - Play Console Help",
+   "status": 200,
+   "sha256": "98f84f37c146d04c52b4b7176d2a9e648ae44d522eccf67fa1d726eb0c07e106",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/12991134",
+   "title": "Android Health Permissions: Guidance and FAQs - Play Console Help",
+   "status": 200,
+   "sha256": "f55a29c8379fe49061c1f0747c481990056eda5e77ac93cadfcf37b9ed998a93",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13295490",
+   "title": "Manage different form factor releases on dedicated tracks - Play Console Help",
+   "status": 200,
+   "sha256": "6e1e8dcfd45202b334b53906ed6cbf7f7d1ec1b6181d0995965c22b7e6ce7d38",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13323374",
+   "title": "SDK Requirements - Play Console Help",
+   "status": 200,
+   "sha256": "4c80d93807a8b769957130983de991696486573ee3122aa7f1983161428bcf36",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13326895",
+   "title": "Using SDKs safely and securely - Play Console Help",
+   "status": 200,
+   "sha256": "7d4f5cabb658f2624518f64debbe6891dfa2d4218358477da1a1a495ac2a5e5b",
+   "source_id": "sdk-policy",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13327111",
+   "title": "Understanding Google Play’s app account deletion requirements - Play Console Help",
+   "status": 200,
+   "sha256": "8fa6f608b9dc4192257a7c31530d3a4f967bc5bbaf3442b29d6fdeac659522fc",
+   "source_id": "account-deletion",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13392821",
+   "title": "Understanding foreground service and full-screen intent requirements - Play Console Help",
+   "status": 200,
+   "sha256": "8cb6b100d54b2b1ac95aaa9ff766ae0ead72eec28e3c185aeb709fc1b76d2b23",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13393723",
+   "title": "Best practices for your store listing - Play Console Help",
+   "status": 200,
+   "sha256": "6337941ba3124d000691eee6484d0b656cc8b6bf8765a499d5110404e47a90b0",
+   "source_id": "store-listing",
+   "depth": 0,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13560201",
+   "title": "Create and distribute a watch face on Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "ee94e78df001eb3a332e8c728e58f4bf3c25686ef86c67f80cefdb47f1958e12",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13609005",
+   "title": "On-device Android container apps and the REQUIRE_SECURE_ENV manifest flag option - Play Console Help",
+   "status": 200,
+   "sha256": "61b2a1ee8778ff33793325c0c1f073158dc72e3bb28df4de5063aad28a3223be",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13628312",
+   "title": "Required information to create a Play Console developer account - Play Console Help",
+   "status": 200,
+   "sha256": "c64f0241d41db58e59459cf3335a7824ec1422d737a602752a8a50b0894eef0e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13634885",
+   "title": "Choose a developer account type - Play Console Help",
+   "status": 200,
+   "sha256": "5cdc0a748dba14f925c29b810425dfff62b80605860940c932769a5bf752d957",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13812041",
+   "title": "Prompt users to update to your latest app version - Play Console Help",
+   "status": 200,
+   "sha256": "e479c27c6bd68ef80c474da43ce3e549a475c89c62cbff604319e92b7055c64b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13821247",
+   "title": "Understanding user choice billing on Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "a1f5f8b5496be8b89f0e126846c7426de3ee11d7c5e30063d2d4ed7b3d02d7b7",
+   "source_id": "user-choice-billing",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13857328",
+   "title": "Use Protected with Play to protect your app and your users - Play Console Help",
+   "status": 200,
+   "sha256": "b77915f4c70af71274bcfe1e0c8a0cde167ca3fa89c865084f8f3c251332f60f",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/13996367",
+   "title": "Health app categories and additional information - Play Console Help",
+   "status": 200,
+   "sha256": "bff3d4c838340c43626d9d0951d0c3d3940cc176c7435b07c4bac1400d104d64",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/140504",
+   "title": "Create and manage subscriptions - Play Console Help",
+   "status": 200,
+   "sha256": "8534d7894e6821169a0e267b376ffe8a4e12dd2d83304e2bd197a5d20bac7040",
+   "source_id": "subscriptions",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14151465",
+   "title": "App testing requirements for new personal developer accounts - Play Console Help",
+   "status": 200,
+   "sha256": "5294596b559c2be52114fa6aa39daca1f7f2846141075a68bbb23f8c43c11e66",
+   "source_id": "closed-testing",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14316361",
+   "title": "Device verification requirements for new developer accounts - Play Console Help",
+   "status": 200,
+   "sha256": "35dbdafff095772444bd91b4a1828712f868a8c2db5bbf23927396ef6d9dc764",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14638385",
+   "title": "Protect your app and fight abuse with security flags FLAG_SECURE and REQUIRE_SECURE_ENV - Play Console Help",
+   "status": 200,
+   "sha256": "36758a42d80ffbfb4c92e3447473b198f18f0e1660b7c4ed8f1d080f1c5f9e13",
+   "source_id": "security-flags",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14738291",
+   "title": "Provide information for the Health apps declaration form - Play Console Help",
+   "status": 200,
+   "sha256": "46ace0faa637056a84fb227834f5949e897d38c783dc905d974bb90492c9c76b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14747720",
+   "title": "Learning more about our Child Safety Standards policy - Play Console Help",
+   "status": 200,
+   "sha256": "6597e65f15f35187bc9e55157de4f2b650e351bc1fdbecdc7df4872a980d22c5",
+   "source_id": "child-safety",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14807773",
+   "title": "Detect app issues early with pre-review checks - Play Console Help",
+   "status": 200,
+   "sha256": "f29aeba61acdfac86adac78bccfc59792f3b3c76d746e4acbffee95becc58c59",
+   "source_id": "pre-review-checks",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/14840298",
+   "title": "Customize your users' experience with the Google Play Grouping API - Play Console Help",
+   "status": 200,
+   "sha256": "b6d170c3d8cf8627d1d846e29500d81020db22b9229fdecdab9615afed0c2bbb",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/15191715",
+   "title": "Helpful tips to get your app published on Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "3054c10f55f2872bd1bdd8bdfef3d9cd7eeae7e144a802eff0eb9e95a38ec344",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/15644220",
+   "title": "Request more time to complete a policy declaration - Play Console Help",
+   "status": 200,
+   "sha256": "01db245915e2b181069ae6cf8f15645e827c173ccda6472b226f26b9e9843875",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/15759508",
+   "title": "Central Play Resource - Play Console Help",
+   "status": 200,
+   "sha256": "2e93c5790d78fc04c59eaea25dde1f6542c243bd103d5d9097e8684547687230",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/15884185",
+   "title": "Best Practices for White Label Developers - Play Console Help",
+   "status": 200,
+   "sha256": "b863b2cac4aab0f18caf52db531d3f5fd85c508e95207ace1a2ed47af1df450c",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16285429",
+   "title": "Halting a fully rolled-out release - Play Console Help",
+   "status": 200,
+   "sha256": "c853290b184a3c2fb936f7269a9054121217487d9e5bf736588453c349c3e6da",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16297427",
+   "title": "Google Play Policy Insights in Android Studio - Play Console Help",
+   "status": 200,
+   "sha256": "3e528bf5b2ba19ee93f1cc261c282a30d46adc340f7cd017e2a84d2f09672b75",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16329703",
+   "title": "Understanding Google Play’s Cryptocurrency Exchanges and Software Wallets Policy - Play Console Help",
+   "status": 200,
+   "sha256": "6bad807b3115b27db7531cefd1c9b3be9f049673467e55be06e676a2a3c2e096",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16341334",
+   "title": "Impersonation FAQs - Play Console Help",
+   "status": 200,
+   "sha256": "2f7af6337d027073e5564c4b98df9d43f3643be1619e024ee914ce017705d00d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16353813",
+   "title": "Best Practices to Safeguard AI-Generated Content - Play Console Help",
+   "status": 200,
+   "sha256": "18c76273fd138195d3e102468b112b609e338afbb102bc49bf1011c2f989b965",
+   "source_id": "ai-content-safeguards",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16386748",
+   "title": "Manage your store listing, experiment, and event graphics with the Asset Library - Play Console Help",
+   "status": 200,
+   "sha256": "83d8b787f4826c659854f5ac316f66cb629ab12dcc20fc2d40d7c0071aad5f06",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16387982",
+   "title": "Understand your release performance and get recommendations on the Test and release overview - Play Console Help",
+   "status": 200,
+   "sha256": "2657f57ae2f1f22c855905cfe89d390f679ec15162b65fbeeb93c8f1b428cbd1",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16394358",
+   "title": "Get a high-level view of your app’s growth performance and opportunities - Play Console Help",
+   "status": 200,
+   "sha256": "b09e7d8b00d78f0a532621aba998556a2c1bf2ab847c5d617b8fe9c74bf00ff0",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16408159",
+   "title": "Understanding Your Tax Responsibilities on Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "b25ae577739619b51fc7c3af1d3e3e5e995285e6593ec8f4d4239deab45f215d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16412111",
+   "title": "Grow your startup app with help from Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "6e1bdb413fcbc4c5f6854cf4646f2bdd492d7ad47fd0e5833f7daeea8b4cd8b8",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16558241",
+   "title": "Permissions and APIs that Access Sensitive Information - Play Console Help",
+   "status": 200,
+   "sha256": "434915558d3ff227797804b640739fc0b5d69639060e3573774295d11d15517b",
+   "source_id": "permissions-sensitive",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16559646",
+   "title": "Device and Network Abuse - Play Console Help",
+   "status": 200,
+   "sha256": "5139c5790ffe5db799a5fd0635cd3f4f6b39bdef6c404f10c7b0b5be83e75b18",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16569691",
+   "title": "Changes to Google Play for upcoming app store bills for users in applicable US states - Play Console Help",
+   "status": 200,
+   "sha256": "37e3b1d168c2bd4ba86e50b4781d37b62ccf336900faca6f09277c4d4bb1c1b8",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16604194",
+   "title": "Personal Loans in India - Play Console Help",
+   "status": 200,
+   "sha256": "4113f08fbee52bc0597eb08e38821e6f4d739385443b13a1b7deb62c749c5c7b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16641489",
+   "title": "Obtaining your app’s SHA-256 certificate fingerprint - Play Console Help",
+   "status": 200,
+   "sha256": "8f0c0ce6314e98be9311670c1bd8362f0dd9e5cbcf69d3ff5fedd109f25b6d30",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16679511",
+   "title": "Health Content and Services - Play Console Help",
+   "status": 200,
+   "sha256": "811e296a3dd2a148faf8be50b79e52460ab4f1907310159b02e233ee6aef79a0",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16761053",
+   "title": "Registering Android package names - Play Console Help",
+   "status": 200,
+   "sha256": "fcf17127641df0dd2eaefd3110bb4404ddc1754f9a9ae902f71ce3600ca3a025",
+   "source_id": "developer-verification-register",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16761055",
+   "title": "Sign and upload an APK - Play Console Help",
+   "status": 200,
+   "sha256": "526bef5d1e9094ac234d0f5d8e69ee831ebc9a00d0bd7da0aae20f3090b9dd11",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16762143",
+   "title": "Select key for existing package name - Play Console Help",
+   "status": 200,
+   "sha256": "fa35c2c7400fe9dcf43fe100abeeb1a8bda6cd1f2924dcda168373436f4f228a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16762301",
+   "title": "Adding additional keys - Play Console Help",
+   "status": 200,
+   "sha256": "bebc820da1fac46360a26c91c62e1112304b7d65d7924ff026063e0e33ee82e9",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16762390",
+   "title": "How Android developer verification uses your Play developer identity data - Play Console Help",
+   "status": 200,
+   "sha256": "7dda3fdcbc650dd4f24f713dac8cbe7abd34a318522c9681fff3ff8fc705d7e7",
+   "source_id": "developer-verification-identity",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16838200",
+   "title": "Requirements for apps with incidental dating or matchmaking features - Play Console Help",
+   "status": 200,
+   "sha256": "d56ea219434d198ca8a6401ac59e48f3e02452fcc03519d578ccc890da164644",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16909862",
+   "title": "Transferring ownership of a Play Console developer account - Play Console Help",
+   "status": 200,
+   "sha256": "332e1761c5d1ca28a202077f1c770f0bb61d672876fd257405c066710e83a3dd",
+   "source_id": "account-transfer",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16935362",
+   "title": "Understanding Restricted Permissions with minimum scope alternatives - Play Console Help",
+   "status": 200,
+   "sha256": "2fbaa3cd898a959d1e074aec7e916a74def0d6facc30f3d79f421927d41801a3",
+   "source_id": "restricted-permissions",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/16984799",
+   "title": "Registering Play package names - Play Console Help",
+   "status": 200,
+   "sha256": "d845ca9c1bb8f90636e3dad5cdb252bd6d8109404100d21823fa3d7387e9aca1",
+   "source_id": "developer-verification-packages",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17006354",
+   "title": "Deceptive Behavior - Play Console Help",
+   "status": 200,
+   "sha256": "893f31efd032a835d47a44328a953673bef07844a73732ef08baea97065179e1",
+   "source_id": "deceptive-behavior",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17104169",
+   "title": "Customize anti-tamper protection - Play Console Help",
+   "status": 200,
+   "sha256": "45959a2541dd34c600e085f4ec8fdb4912ed50ce9bacbe77fc948b0c7a739cb8",
+   "source_id": "anti-tamper",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17118609",
+   "title": "About your submission activity - Play Console Help",
+   "status": 200,
+   "sha256": "21c402c8c204d5552b4c3105f0ea6ee2ab6b2cbafd5844d197146ec10220979d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17165227",
+   "title": "Manage Play Shorts in Play Console - Play Console Help",
+   "status": 200,
+   "sha256": "114a1835e059b825b0996b0e8156651013857b5ad1067eefa17f0a236e2c7af7",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17216631",
+   "title": "Walkthrough videos for Android developer verification in Play Console - Play Console Help",
+   "status": 200,
+   "sha256": "c64fb5784326ec9996aa560049f9ab20078375d3197763dafd9185091ad7cb8d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17262077",
+   "title": "Declaring AI-generated content in Play Console - Play Console Help",
+   "status": 200,
+   "sha256": "ad876bdf9824e55a5cf9415580a344608d36712530dcd79ede90bbe0be14e53f",
+   "source_id": "ai-content-declaration",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17367361",
+   "title": "Version codes - Play Console Help",
+   "status": 200,
+   "sha256": "1ded392aa7be45d6a212d759ae3801f1c10bec37c268365be1ee7227330dc8d6",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/17492799",
+   "title": "Play Console technical quality requirements - Play Console Help",
+   "status": 200,
+   "sha256": "a2f21ee68285c3b8dd1089971d1c103f7eea09a97f9c89564952c14d759fb39c",
+   "source_id": "technical-quality",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18058043",
+   "title": "Android multi-platform app quality guidelines - Play Console Help",
+   "status": 200,
+   "sha256": "3fd0d3d674fabe18db064121ef5e96a2a5355fda3fec2f3b8a8c365ed9fef152",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18265346",
+   "title": "Developer Program Policy - Play Console Help",
+   "status": 200,
+   "sha256": "0e25e381331f433c4a38ecc75f5baef2a55c109cf7d3ef8651d59e9dfd936623",
+   "source_id": "dev-policy",
+   "depth": 0,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18482617",
+   "title": "Merchandise your products with Google Play in Gemini - Play Console Help",
+   "status": 200,
+   "sha256": "c0620eded775f91747448bdc1c622ef704c5920e8efc62cc71a37d002baba48a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18611720",
+   "title": "Developer Guide: Getting Started with Google Play Shorts - Play Console Help",
+   "status": 200,
+   "sha256": "804f76c4d12e511120791d6bf75ef97138e172143a87aaf88b58e7f704701e02",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18765789",
+   "title": "Personal library apps in Google Play - Play Console Help",
+   "status": 200,
+   "sha256": "5d056a855a49483ce3603ba1c1829217a8a140a9a8b05c9ed9f23ce3e09f1204",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18825781",
+   "title": "Catalog management using AI agent - Play Console Help",
+   "status": 200,
+   "sha256": "3f8ca1652bbe128f1b71f57958b510518dcc3a7e9e37cdd4633529c2ddd2894e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/18857366",
+   "title": "Automatic FX price update - Play Console Help",
+   "status": 200,
+   "sha256": "483cc158e5e69c6e04d8599646c58abad169b74a77456f7412f54a4b595c5853",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/2481797",
+   "title": "Add or test APK expansion files - Play Console Help",
+   "status": 200,
+   "sha256": "35e672436f4d8101eae6af3abbbaccb7ba04b6390163eb56263350ecbaa72eba",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/2543765",
+   "title": "Protect your developer account - Play Console Help",
+   "status": 200,
+   "sha256": "8f52685457dc5e11ce3bd62982cbb20000bc6c42dc344aa0e4e8435a7a3a1a7a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/2558802",
+   "title": "Supported browsers - Play Console Help",
+   "status": 200,
+   "sha256": "55f33f07d9121616079bb7f908b54863caeee226cdaf82f6ae6afa8d09497673",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/2741495",
+   "title": "Manage your app's orders and issue refunds - Play Console Help",
+   "status": 200,
+   "sha256": "a15f5003dc33d5cf7d0b6796bb8f37d16432c7e758e63cd7a1363ac09f7bdcaa",
+   "source_id": "refunds-orders",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/3092739",
+   "title": "Link a Google Play developer account to your payments profile - Play Console Help",
+   "status": 200,
+   "sha256": "a22393f8bc0a434ab27794f38229617ae21fdb809757b94579f816ebec9ca215",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/3433208",
+   "title": "Receive performance notifications - Play Console Help",
+   "status": 200,
+   "sha256": "ace10c45fa85b0058b0a0ed168140a9079796bc585fd22a3ee21461361fe0ed6",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/4448378",
+   "title": "Get discovered on Google Play search - Play Console Help",
+   "status": 200,
+   "sha256": "3f22623d93f2d72de3ff4dcc3e1ff851fe7c931115ab5eaf224f55b35fc24195",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6041489",
+   "title": "App Indexing on Google Search - Play Console Help",
+   "status": 200,
+   "sha256": "86fad97fd13fca747853edf849f9a18a2425b1ee805114018a9b86fe7211557e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6053184",
+   "title": "View changes with your Activity log - Play Console Help",
+   "status": 200,
+   "sha256": "503e262fe79b545f133056b61d59cbbd3f3234074c05668438c5bd94cb5eaa4a",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6062777",
+   "title": "Test in-app billing with application licensing - Play Console Help",
+   "status": 200,
+   "sha256": "bbb4c69567d70205c38e08487d3785485f23145c507c021cad64d7e06ace27a1",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6110967",
+   "title": "Link your developer account to Google services - Play Console Help",
+   "status": 200,
+   "sha256": "978d030e664fadf4bc84a65ebc0b2a1905f3eda3aee36342479897f0854c99d3",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6112435",
+   "title": "Get started with Play Console - Play Console Help",
+   "status": 200,
+   "sha256": "3984e3cf1cfce0436d3fa44351959aaba26a70479fcc28a3e819648fe9fc6a9b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6230247",
+   "title": "Transfer apps to a different developer account - Play Console Help",
+   "status": 200,
+   "sha256": "280b9e9001613cf305f743e6d60c431bebabe00607f9b6e2fdd466dad05b53d3",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6320428",
+   "title": "Provide advance notice to the Google Play App Review team - Play Console Help",
+   "status": 200,
+   "sha256": "0e956959ed704ede132eba7b055a9712bc0c9effe18428c2e7083be7f2375b3c",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6321495",
+   "title": "Create promotions - Play Console Help",
+   "status": 200,
+   "sha256": "b8bad259d91b2b875078726a576fd4aa4da670fa7e5d6ea360a6bf8cd8f8b721",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6334373",
+   "title": "Set up your app's prices - Play Console Help",
+   "status": 200,
+   "sha256": "d8e0e6b208639d452f4a44c8fe23b6cb0db437d66310b7456adc992c30e40550",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/6346149",
+   "title": "Release app updates with staged rollouts - Play Console Help",
+   "status": 200,
+   "sha256": "08f395b7dae9fa235ddc42ae7b8be728eace7365acb5970706594eece25b78af",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/7353455",
+   "title": "View and restrict your app's compatible devices - Play Console Help",
+   "status": 200,
+   "sha256": "274df0fd093bc8c27945395281cf2508e1ef1ef0f0132e631c992404cb2ff43b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/7381861",
+   "title": "Distribute your instant experience - Play Console Help",
+   "status": 200,
+   "sha256": "415041a4dcc9c079f63b5a37b6063c7e77e0cabe5cf8b0ae9d5e27a248a4b237",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/7550024",
+   "title": "Distribute app releases to specific countries and regions - Play Console Help",
+   "status": 200,
+   "sha256": "b2adb1863871f4cca5b87f5de9826d29d5846c5ca95b74fe92e93bebe3276361",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9023898",
+   "title": "Account, registration, and payment issues - Play Console Help",
+   "status": 200,
+   "sha256": "bc40b9506bfe14d68b0b676ff83635f3b9c12b6dd1e76592f7b75035bcd05b87",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9037917",
+   "title": "Billing, reporting, and order cancellation issues - Play Console Help",
+   "status": 200,
+   "sha256": "4ab8efd886b18017a89aa2ff55995a2bc283dfa49754aa67d626981c6dcb5c8f",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9042516",
+   "title": "App visibility and discovery issues - Play Console Help",
+   "status": 200,
+   "sha256": "689c168a57da7023fc108708be163e5f6e91942d16cd201628f21cfe2e52c464",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9061737",
+   "title": "Publishing issues - Play Console Help",
+   "status": 200,
+   "sha256": "a1bc24b4007852ac45493a95c8b5e4b13f79607f0af0b81923a325c9ebc7c0a8",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9214102",
+   "title": "Declare permissions for your app - Play Console Help",
+   "status": 200,
+   "sha256": "5b5e633eae927eb7d210a356c3bb0063cb1e1ac285f9c9d825feb1a6aec4272d",
+   "source_id": "declare-permissions",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9217430",
+   "title": "Prohibited pharmaceuticals and supplements - Play Console Help",
+   "status": 200,
+   "sha256": "8b3a9f5166712e48da8e1b71f89564802568d1f65d5e8122ff3d2fccab635d97",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9536665",
+   "title": "Watermark and test app requirements for the Families Self-Certified Ads SDK Program - Play Console Help",
+   "status": 200,
+   "sha256": "e69ee74ab62cc20103c2174a07e65af050461a75084441ea681b381b29b77d83",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9799150",
+   "title": "Understanding location in the background permissions - Play Console Help",
+   "status": 200,
+   "sha256": "3784685265f2a4df742b3a2709388d9e1f46e0448b396d08ae5b21fae2adc406",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9842756",
+   "title": "Use Play App Signing - Play Console Help",
+   "status": 200,
+   "sha256": "8f8573f0e970f3b842c99a9f2a9e172e6c82ecad1ce724aa63ec14778e8c7935",
+   "source_id": "app-signing",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9842757",
+   "title": "Use a pre-launch report to identify issues - Play Console Help",
+   "status": 200,
+   "sha256": "f199f1f96f395045c62f8655e600f44a8e248ba668eab5fe0783f95277e21ab8",
+   "source_id": "pre-launch-report",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9844279",
+   "title": "Inspect app versions on the Latest releases and bundles page - Play Console Help",
+   "status": 200,
+   "sha256": "b562877e225116c7f0bc58c630c24feb5f0e771eb91ad122c5924acadeff4e1c",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9844487",
+   "title": "Understand your pre-launch report - Play Console Help",
+   "status": 200,
+   "sha256": "2588a1ee00ab54a20f81d20bc4d18bae35daf1de2e3cb7c250e8e9d56d33e17e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9844679",
+   "title": "Share app bundles and APKs internally - Play Console Help",
+   "status": 200,
+   "sha256": "8039e057bff0f6221dc7a436be5e9502e65a685ba2ddb4c7283e7c09baaf0412",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9844778",
+   "title": "Translate and localize your app - Play Console Help",
+   "status": 200,
+   "sha256": "adcc6d75c1dce4b11adc5d959b4551fc940b7301ca2dc05b34addf78bc10ff39",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9845334",
+   "title": "Set up an open, closed, or internal test - Play Console Help",
+   "status": 200,
+   "sha256": "b51f72e27bc6f43bde31233f5a11ead26e7bd7f616ee89fcb7460702f6657410",
+   "source_id": "test-tracks",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9848633",
+   "title": "Deobfuscate or symbolicate crash stack traces - Play Console Help",
+   "status": 200,
+   "sha256": "aedb14514cfe7cc45873f8716d2a07d96a3bd212994243bfff76d0a90ae9e69d",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9857753",
+   "title": "Ads - Play Console Help",
+   "status": 200,
+   "sha256": "d909881b3c21372c5c8770f6c459a0eaba9a4794103148ea2726b24db1584428",
+   "source_id": "ads",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859047",
+   "title": "Build awareness for your apps with pre-registration - Play Console Help",
+   "status": 200,
+   "sha256": "05b05e944e21aaa4ace4c6b8b1d5f917e2cf2349246a4f0715d736404c6d3659",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859152",
+   "title": "Create and set up your app - Play Console Help",
+   "status": 200,
+   "sha256": "5844bf808a38240febfd6b34435e13d5c631e3c0ea333f63f200edc55e5b324c",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859348",
+   "title": "Prepare and roll out a release - Play Console Help",
+   "status": 200,
+   "sha256": "d76d5b3e942567b7310eb0e4a500b10749e11b4fce360c665b296ce18f38d42b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859350",
+   "title": "Update or unpublish your app - Play Console Help",
+   "status": 200,
+   "sha256": "68e5535a0fc1c712f7be9f75f0d7062afc34919c77e5d0df728c0fa2442abae9",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859371",
+   "title": "View and download supported devices - Play Console Help",
+   "status": 200,
+   "sha256": "c5b718de6e505ab0af8490cba8f98c0dd0124d6a8ecbfcd302debfa21e260c54",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859372",
+   "title": "Optimize your app’s size and stay within Google Play app size limits - Play Console Help",
+   "status": 200,
+   "sha256": "43dd10c557ccb426a75334b3c69a9d4aeb099319a9f3000523473719a45a04e6",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859454",
+   "title": "Set up your app on the app dashboard - Play Console Help",
+   "status": 200,
+   "sha256": "256854dea58fa5db87153a7b47a7a8efbb38502807ce6ad52d07db69a0a61331",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859455",
+   "title": "Prepare your app for review - Play Console Help",
+   "status": 200,
+   "sha256": "4303a51aae636f9df92db8514def68c8bae8783ca135c7ea428b38fcffff09bf",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859654",
+   "title": "Control when app changes are reviewed and published - Play Console Help",
+   "status": 200,
+   "sha256": "80cea468eec6338cb4914cd3e787a7475ee07780715247efbc99bde8e5b61a8f",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859655",
+   "title": "Content rating requirements for apps, games, and the ads served on both - Play Console Help",
+   "status": 200,
+   "sha256": "b456ae14401ce68ef37316c5018d25c2fc549fb31256dac6062b4a059c2ef507",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859673",
+   "title": "Choose a category and tags for your app or game - Play Console Help",
+   "status": 200,
+   "sha256": "1a3c062e5b9d9a050c3bdcc31ac4c92858d620a97fe73b6507ca9878a49f4432",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9859751",
+   "title": "Publish your app - Play Console Help",
+   "status": 200,
+   "sha256": "464659ec685beef30b7279bd44a55cbbbff48e96397307b81faa00ba615d21dd",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9866151",
+   "title": "Add preview assets to showcase your app - Play Console Help",
+   "status": 200,
+   "sha256": "05ef82162a429aceb1e59508dd44f0c52cf2810d95bfa21cb8a6dcdda1075f47",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9867158",
+   "title": "Create custom store listings to target specific user segments - Play Console Help",
+   "status": 200,
+   "sha256": "7d7e8f128e9cae323f34eb1804fc676607a6c5518c309883c68af5727d08314e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9867159",
+   "title": "Manage target audience and app content settings - Play Console Help",
+   "status": 200,
+   "sha256": "2dbab264181e2910ba9df796b7961e1dc9626c3261ae41bfafa61d87b056b40b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9874937",
+   "title": "Publish private apps - Play Console Help",
+   "status": 200,
+   "sha256": "89e8d9811566427408796fab44d6e81c7a2a9dcef33ab89df78cad05df400bab",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9877032",
+   "title": "Real-Money Gambling, Games, and Contests - Play Console Help",
+   "status": 200,
+   "sha256": "761344e755f9918798e01688fe63ac174d2daaff4fe96b488b96b0a832e2c298",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9878809",
+   "title": "Child Endangerment - Play Console Help",
+   "status": 200,
+   "sha256": "a928a89be0049fadaa649ffc26930a9d15c6028b9c562f8aad5df457847eaf33",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9878810",
+   "title": "Inappropriate Content - Play Console Help",
+   "status": 200,
+   "sha256": "85a93253e0e1dccf375edc259f7bf31e0fd76a1ae0f11015fe549e70fc8341d3",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9888374",
+   "title": "Impersonation - Play Console Help",
+   "status": 200,
+   "sha256": "a382d410677d9ea5d7f47ab25d3c8b61b0e023129a279aaf90b2610d81c71c29",
+   "source_id": "impersonation",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9888380",
+   "title": "Malware - Play Console Help",
+   "status": 200,
+   "sha256": "dc1faf32780a22485226b018d2a3d2cfc2224984834d567089ad6fbc9c79a8ed",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9893335",
+   "title": "Google Play Families Policies - Play Console Help",
+   "status": 200,
+   "sha256": "58908fd10df2f511f04ec4cd7a9d3bfb8d023c1e9399a9877cf07df918f98990",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9898684",
+   "title": "User Ratings, Reviews, and Installs - Play Console Help",
+   "status": 200,
+   "sha256": "07ab5a61d567cda4158739ddd5ed5e2e7c94f64a4150dd1db622b2a27ea2f19f",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9898842",
+   "title": "Metadata - Play Console Help",
+   "status": 200,
+   "sha256": "4b4ce6ebd2349a0ca35cfd6818abf31ab66e0ea9d6b6fc45241acadfe2b49c36",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9898843",
+   "title": "Content Ratings - Play Console Help",
+   "status": 200,
+   "sha256": "737e33283fb8c9cffa7520caa3e5b9e59822d23b25da8bd6af367ed2d5a9fa37",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9899004",
+   "title": "App Promotion - Play Console Help",
+   "status": 200,
+   "sha256": "14b0c73054e274999ac0230c85fbd2cb03629bb82a8d63e276beddaa30290051",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9900633",
+   "title": "Families Self-Certified Ads SDK Program - Play Console Help",
+   "status": 200,
+   "sha256": "e4e1cf7a014a53de692a5efa5b743e2a04b671425f5f587a6b4aa7e406fb261b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9969955",
+   "title": "Ad Fraud - Play Console Help",
+   "status": 200,
+   "sha256": "e647d47c56e6cc9e899f96bfa2fc7389126f557594ce2cfed67192bb8a887555",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/answer/9970222",
+   "title": "Mobile Unwanted Software - Play Console Help",
+   "status": 200,
+   "sha256": "83ba77a7560e6c8126a0119841b3c6373cc284075cbeb23bb79c0849c1b62c87",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community",
+   "title": "Google Play Developer Community",
+   "status": 200,
+   "sha256": "0436d3147585cbda75ba9e810fd0f943a2fa82302acc722349a6078f4a77dadb",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-guide/244499850/app-review-time",
+   "title": "App review time - Google Play Developer Community",
+   "status": 200,
+   "sha256": "24466ddaaa8f0f67407ce327b3415ff0ad7008ceaf1fc37286c3823b0bf0a173",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-guide/246344978/about-the-data-safety-form-and-account-deletion",
+   "title": "About the Data Safety Form and Account Deletion - Google Play Developer Community",
+   "status": 200,
+   "sha256": "2e359bb0d7399c7a566b8902ca96a62e484bb2b410116d9d296df578b0500921",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-guide/255621488/everything-about-the-12-testers-requirement",
+   "title": "Everything about the 12 testers requirement - Google Play Developer Community",
+   "status": 200,
+   "sha256": "af8a5e0ee94d3444decc21b2d69a45e401ba759b761bc91a00ad08642c5f2391",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-video/239160561/how-to-reset-your-google-play-developer-console-app-upload-key",
+   "title": "[video] How to reset your Google Play Developer Console App Upload Key - Google Play Developer Community",
+   "status": 200,
+   "sha256": "dbb8bb97e07c6e2277189139199d3ea48b7ce2103af2afdbd68eb5491808c7e2",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-video/242257587/how-to-keep-your-google-play-developer-account-safe-from-hackers-and-scammers",
+   "title": "[video] How to Keep Your Google Play Developer Account Safe from Hackers and Scammers - Google Play Developer Community",
+   "status": 200,
+   "sha256": "84e317674963a7011313063bcde3cfc6002ff1e21ece76c1121f884bc5e0339d",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community-video/376304152/how-to-report-an-app-that-has-been-in-review-for-over-14-days",
+   "title": "[video] How to report an app that has been in review for over 14 days - Google Play Developer Community",
+   "status": 200,
+   "sha256": "b0ee3e4c0b94727a0f16cc0f385985ac28b0ac1eb228dcf8341317f760956f74",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/community/about",
+   "title": "Google Play Developer Community",
+   "status": 200,
+   "sha256": "262d7c4eca4f65f4596f2481562a2b53b05e5eeb8d597a664fc6078116eb694e",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/table/12921780",
+   "title": "Policy Deadlines - Play Console Help",
+   "status": 200,
+   "sha256": "ef53fa8dcf04937994b0b6706eb788ccd36cb4521a98c8f7a9a27c88f28f3b8f",
+   "source_id": "policy-deadlines",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/table/4419860",
+   "title": "Supported languages - Play Console Help",
+   "status": 200,
+   "sha256": "30c67542b448182fb1cc88333318334dd14dea9a0b5fbfb4ffbc2f914a7ace60",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/206281945/we-can-t-verify-your-phone-number-right-now-try-again-later-play-console",
+   "title": "We can't verify your phone number right now. Try again later. play console - Google Play Developer Community",
+   "status": 200,
+   "sha256": "c65b6deffade24061eb1b4aa2eb03b3a2b11f4d4b99ba91f76756d138d4693f5",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/221786546/huge-drop-in-store-listing-acquisitions",
+   "title": "Huge Drop in store listing Acquisitions - Google Play Developer Community",
+   "status": 200,
+   "sha256": "a9e6af7b8fd1f229095afa6154a44c386c10afcb7074a3b871ea8bdb31d95160",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/235401734/account-is-terminated-for-unknow-reason",
+   "title": "Account is terminated for unknow reason. - Google Play Developer Community",
+   "status": 200,
+   "sha256": "fe049ed55ba2a2ab585ca985dc93e02612a5c5bdcd2fb518f25a25f1412a54c8",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/235554474/traffic-from-search-dropped-not-indexing",
+   "title": "Traffic from search dropped. Not indexing - Google Play Developer Community",
+   "status": 200,
+   "sha256": "6fb594f1eb570f03cf198499c353b582a7f594d26a4ad6051755accec909f629",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/236667761/use-of-vpn-service-is-not-a-permitted-use-case",
+   "title": "Use of Vpn Service is not a permitted use case - Google Play Developer Community",
+   "status": 200,
+   "sha256": "52a07d39e6ff531a19025cdf1c26f12d9a5d7be8ae5e68564b59078ba4e30099",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/236728296/i-would-like-to-know-if-embedded-jdk-jetbrains-v11-in-android-studio-is-free-for-commercial-use",
+   "title": "I would like to know if Embedded JDK JetBrains v11 in Android Studio is free for commercial use - Google Play Developer Community",
+   "status": 200,
+   "sha256": "6c12cc383daecfa83b95830bc5ae5803a084a2fb52cf2de97d4f22a8c016550c",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237164209/malware-mobile-unwanted-software-behavior-transparency",
+   "title": "Malware, Mobile Unwanted Software & Behavior Transparency - Google Play Developer Community",
+   "status": 200,
+   "sha256": "7a6c8de8b4fbef4e8bae16629a594658d092fba1cf67efec1d87e16db23b91c8",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237416476/all-in-app-purchases-are-cancelled",
+   "title": "All in-app purchases are cancelled - Google Play Developer Community",
+   "status": 200,
+   "sha256": "cc34c894cb0a0d7975edc2ab45fd1b4265a38eb98b287bfda768dad46d26ec25",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237458075/developer-player-key-on-the-new-generation-of-google-play-games-id",
+   "title": "Developer_Player_Key on the new generation of Google Play Games ID. - Google Play Developer Community",
+   "status": 200,
+   "sha256": "d40784bb289f9e917c962bf01ce0b60b123ac9039258dce7f1af07fcd64e3287",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237710629/i-m-utterly-done-with-app-development-for-google",
+   "title": "I'm utterly done with app development for Google - Google Play Developer Community",
+   "status": 200,
+   "sha256": "30151a7dd623c109fb90804c8cdcb33c958a6d24b936224784f13ef6416a452e",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237713132/i-am-facing-the-user-data-policy-violation-of-user-data-policy-app-rejected-so-many-times",
+   "title": "I am facing the User Data policy: Violation of User Data policy, App rejected so many times - Google Play Developer Community",
+   "status": 200,
+   "sha256": "276e84a7a5acfa6979cd32ce713321dbf71de5f3b593f83452aad38c6fcefc33",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/237750694/if-i-deactivate-an-in-app-product-can-i-reactivate-it",
+   "title": "If I deactivate an in-app product, can I reactivate it? - Google Play Developer Community",
+   "status": 200,
+   "sha256": "449b824c6ad578f96b2135e4f13d4a64e15bbcd7f48a5b99eb25a8e5ca7a759c",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/419196358/android-developer-verification-balancing-openness-and-choice-with-safety",
+   "title": "Android developer verification: Balancing openness and choice with safety - Google Play Developer Community",
+   "status": 200,
+   "sha256": "0dc394dce7c2a0110d71fc5887be1849d8daddfa4292323f6dba3286dd1a39c8",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/471472559/mandatory-steps-for-contacts-permissions-policy-compliance-by-january-27-2027",
+   "title": "Mandatory steps for Contacts Permissions policy compliance by January 27, 2027 - Google Play Developer Community",
+   "status": 200,
+   "sha256": "f67d7b546247017ea56e33cec1ed2e3ed4d34e09ddeb5747e4c9b9ca05f7b64d",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/thread/475020766/policy-updates-announced-october-29-2026",
+   "title": "Policy Updates Announced October 29, 2026 - Google Play Developer Community",
+   "status": 200,
+   "sha256": "cb698cbbb65635c1ffa56ebab934c8970f7ca86158dc955cb92d06c914a9c18c",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/threads",
+   "title": "Browse the Google Play Developer Community - Google Play Developer Community",
+   "status": 200,
+   "sha256": "e1f12ddfb2aa40172dfe48b71bb68722afd3b7b891b53d8b592286ef264dc2ac",
+   "source_id": "help-center-index",
+   "depth": 2,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/12796472",
+   "title": "Google Play programs - Play Console Help",
+   "status": 200,
+   "sha256": "4b0271a7787be05e18ac588467c38a95e7b37ea31799365132535e4c1621de74",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/12796572",
+   "title": "App management - Play Console Help",
+   "status": 200,
+   "sha256": "97e2c5f78ca980fec166cb0fa460d549b8260c343d882ce0d0ff6174e29b884b",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/12797379",
+   "title": "Data safety and prominent disclosure - Play Console Help",
+   "status": 200,
+   "sha256": "aa941ef5a313847e1f5a004c23614bf0e26946d5f430f4d7fddd9a1eec215147",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/12798286",
+   "title": "Use of app permissions and APIs - Play Console Help",
+   "status": 200,
+   "sha256": "1efdc2d71ef7f314b8cf13bf4ff07c27e491ba673cd86085eab315f2e5ccf6c9",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/12798386",
+   "title": "Policy education and app requirements - Play Console Help",
+   "status": 200,
+   "sha256": "2c94841ccfef3e58dbc2d026147611dae40fb107a0f1967e0de960b52b0c8df9",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/16516949",
+   "title": "Retain and reward users with Google Play Points - Play Console Help",
+   "status": 200,
+   "sha256": "95717c1c55fe2286a66bae0e05c7441849953e3fcffb52000d2a36b343180030",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/3450942",
+   "title": "View reports, statistics, and insights - Play Console Help",
+   "status": 200,
+   "sha256": "b8e6061c3c994ead5804425f9b4796dc2a89d05dea695a9929c1e994803d76cc",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/3450987",
+   "title": "Manage your store listings - Play Console Help",
+   "status": 200,
+   "sha256": "5822c7656691bc442ff8dcff2473e0192a18466027aedd881b02b25553252c6e",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/3452890",
+   "title": "Paid apps, in-app products & subscriptions - Play Console Help",
+   "status": 200,
+   "sha256": "e37de8d2d47d91267d835e3186b9d29885c34181c164fa73243096fc9b8e5313",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/3453554",
+   "title": "Manage policy violations - Play Console Help",
+   "status": 200,
+   "sha256": "da4a09ac523ddfe9fd4266a79f3fff940172a9a7a31da52a7f48e1d3a70592cc",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/7071327",
+   "title": "Google Play game services - Play Console Help",
+   "status": 200,
+   "sha256": "a8e959ae605637502223106c820e7b3b26a1f6598d75ca02b8042857c3a78394",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  },
+  {
+   "url": "https://support.google.com/googleplay/android-developer/topic/7072535",
+   "title": "Set up your developer account - Play Console Help",
+   "status": 200,
+   "sha256": "609309db346a9174548d5d776d6c1daafec7fc61adf8cdbe68b4ee7aceaed79c",
+   "source_id": "help-center-index",
+   "depth": 1,
+   "lastSeen": "2026-10-30"
+  }
+ ]
+}

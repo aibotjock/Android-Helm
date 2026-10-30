@@ -1,0 +1,83 @@
+{
+ "about": "Dated obligations, curated by hand from the cited source. Add an entry only after reading the source. status.mjs computes passed, within 60 days and upcoming.",
+ "deadlines": [
+  {
+   "id": "closed-testing-personal",
+   "date": "2023-11-13",
+   "title": "Personal developer accounts created after this date must run a closed test with at least 12 testers opted in for 14 days before applying for production",
+   "source": "closed-testing",
+   "note": "Ongoing requirement. Accounts created before this date are not covered."
+  },
+  {
+   "id": "target-api-new-apps",
+   "date": "2026-08-31",
+   "title": "New apps and app updates must target Android 16 (API level 36) or higher",
+   "source": "target-api",
+   "note": "Our app targets API 37 (checked 2026-10-30)."
+  },
+  {
+   "id": "target-api-extension",
+   "date": "2026-11-01",
+   "title": "Extension date for requests to update target API level, as stated on the target API page",
+   "source": "target-api",
+   "note": "Only relevant to apps still on an older target. Ours is not."
+  },
+  {
+   "id": "developer-verification-packages",
+   "date": "2026-09-30",
+   "title": "All Play packages must be registered for Android developer verification; unregistered apps are removed from Play",
+   "source": "developer-verification-packages",
+   "note": "Passed. New packages need the developer identity verified and the signing key certificate registered before the first upload."
+  },
+  {
+   "id": "policy-update-2026-10-29",
+   "date": "2026-10-29",
+   "title": "Policy update effective: Local Network Permission and Manage Contacts Permission restrictions; developers have at least 30 days to comply",
+   "source": "policy-announcements",
+   "note": "Our app declares neither permission (checked 2026-10-30)."
+  },
+  {
+   "id": "policy-update-2026-10-29-window",
+   "date": "2026-11-28",
+   "title": "End of the minimum 30-day compliance window for the 2026-10-29 update (calculated)",
+   "source": "policy-announcements",
+   "approximate": true,
+   "note": "Calculated as 30 days after 2026-10-29; the page says \"at least 30 days\"."
+  },
+  {
+   "id": "sensitive-permissions-2027-01-27",
+   "date": "2027-01-27",
+   "title": "Changes take effect for location, SMS and call log, foreground-service (geofencing) and contacts permission policies",
+   "source": "permissions-sensitive",
+   "note": "Our app declares only internet and biometric permissions (checked 2026-10-30)."
+  },
+  {
+   "id": "technical-quality-2027-02",
+   "date": "2027-02-01",
+   "title": "Bad-behavior and optimization thresholds begin (page says \"from February 2027\")",
+   "source": "technical-quality",
+   "approximate": true,
+   "note": "The day is not stated; 1 February is a planning placeholder."
+  },
+  {
+   "id": "zero-tap-restore-2027-04",
+   "date": "2027-04-01",
+   "title": "Apps must support zero-tap sign-in restore credentials (page says \"from April 2027\")",
+   "source": "technical-quality",
+   "approximate": true,
+   "note": "The day is not stated; 1 April is a planning placeholder."
+  },
+  {
+   "id": "appfunctions-2027-04-14",
+   "date": "2027-04-14",
+   "title": "AppFunctions API requirements take effect",
+   "source": "permissions-sensitive"
+  },
+  {
+   "id": "manage-contacts-2027-08-25",
+   "date": "2027-08-25",
+   "title": "Manage Contacts permission restrictions take effect",
+   "source": "permissions-sensitive"
+  }
+ ]
+}

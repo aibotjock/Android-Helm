@@ -1,0 +1,65 @@
+name: Refresh Google Play policy registry
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Tests
+        run: node --test tests/
+
+      - name: Keep the previous registry
+        run: cp generated/registry.json /tmp/previous-registry.json || echo '{"pages":[]}' > /tmp/previous-registry.json
+
+      - name: Crawl due sources
+        run: node tools/crawl.mjs
+
+      - name: Compare and report
+        run: |
+          node tools/diff.mjs /tmp/previous-registry.json generated/registry.json
+          node tools/status.mjs
+          node tools/validate.mjs
+
+      - name: Commit metadata only
+        run: |
+          git config user.name "android-helm-bot"
+          git config user.email "android-helm-bot@users.noreply.github.com"
+          git add generated state
+          if git diff --cached --quiet; then
+            echo "No metadata changes."
+          else
+            git commit -m "Refresh policy registry ($(date -u +%F))"
+            git push
+          fi
+
+      - name: Open issues for changes or blocked sources
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          changes=$(node -e "const s=require('fs').readFileSync('generated/CHANGES.md','utf8');const n=(re)=>{const m=s.match(re);return m?+m[1]:0};console.log(n(/Changed pages: (\d+)/)+n(/New pages: (\d+)/))")
+          blocked=$(node -e "console.log(require('./state/run.json').blocked||0)" 2>/dev/null || echo 0)
+          if [ "$changes" != "0" ]; then
+            gh issue create --title "Policy changes detected ($(date -u +%F))" --body-file generated/CHANGES.md
+          fi
+          if [ "$blocked" != "0" ]; then
+            gh issue create --title "Refresh incomplete: sources blocked ($(date -u +%F))" --body "See generated/RUN.md. Blocked sources are retried on the next run. Read the affected P0 pages by hand this week."
+          fi

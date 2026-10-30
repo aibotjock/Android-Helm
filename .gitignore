@@ -1,0 +1,4 @@
+# Cached page text: never committed (keeps Google's wording out of this repository).
+cache/
+node_modules/
+.DS_Store

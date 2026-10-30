@@ -1,0 +1,212 @@
+{
+ "workspace-marketplace-policies": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "play-policy-hub": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "distribution-agreement": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "help-center-index": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "policy-announcements": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "user-data": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "payments-policy": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "third-party-sdks": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "data-safety": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "prominent-disclosure": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "play-integrity": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "inactive-accounts": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "target-api": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "sdk-policy": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "account-deletion": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "store-listing": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "user-choice-billing": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "subscriptions": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "closed-testing": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "security-flags": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "child-safety": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "pre-review-checks": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "ai-content-safeguards": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "permissions-sensitive": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "developer-verification-register": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "developer-verification-identity": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "account-transfer": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "restricted-permissions": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "developer-verification-packages": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "deceptive-behavior": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "anti-tamper": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "ai-content-declaration": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "technical-quality": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "dev-policy": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "refunds-orders": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "declare-permissions": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "app-signing": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "pre-launch-report": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "test-tracks": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "ads": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "impersonation": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ },
+ "policy-deadlines": {
+  "last_checked": "2026-10-30",
+  "incomplete": false,
+  "seeded": true
+ }
+}
